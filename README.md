@@ -4,8 +4,8 @@ Repository cá nhân dùng để lưu trữ bài tập và sản phẩm học t�
 
 ## Thông tin học viên
 
-- **Mã học viên:** `<HVXX>`
-- **Họ và tên:** `<Họ tên của bạn>`
+- **Mã học viên:** `<hv07>`
+- **Họ và tên:** `<Nguyen Duc Manh>`
 
 > Hãy cập nhật thông tin phía trên khi thiết lập repository lần đầu.
 
